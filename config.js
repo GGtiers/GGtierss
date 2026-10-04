@@ -120,6 +120,11 @@ const GGtiersConfig = {
             name: "SMP",
             icon: "images/SMP.png"
         },
+         {
+            id: "PotPvp",
+            name: "PotPvp",
+            icon: "images/Dpot.png"
+        },
     ]
 
 };
