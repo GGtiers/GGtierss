@@ -198,6 +198,12 @@ minecraftUsername:
                         player.gildie ??
                         null,
 
+                    Dpot:
+                        player.dpot ??
+                        player.Dpot ??
+                        null,
+
+
                     Podziemia:
                         player.podziemia ??
                         null,
